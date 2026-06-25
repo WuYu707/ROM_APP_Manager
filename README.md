@@ -59,3 +59,7 @@ wuyu
 ## 版本
 
 v1.0.0
+
+## 许可证
+
+[Apache License 2.0](LICENSE)
