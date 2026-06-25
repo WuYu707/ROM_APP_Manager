@@ -54,7 +54,7 @@ pyinstaller --onefile --windowed --name "ROM_APP_Manager" --add-data "phone_tool
 
 ## 作者
 
-wuyu
+WuYu707
 
 ## 版本
 
@@ -63,3 +63,7 @@ v1.0.0
 ## 许可证
 
 [Apache License 2.0](LICENSE)
+
+## 致谢
+
+- `aapt2.exe` / `aapt_tool.exe` 来自 Android SDK，版权归 Google 所有，遵循 [Apache License 2.0](https://android.googlesource.com/platform/sdk/+/refs/heads/main/LICENSE)
